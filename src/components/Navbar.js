@@ -9,10 +9,10 @@ import { CgGitFork } from "react-icons/cg";
 import {
   AiFillStar,
   AiOutlineHome,
-  AiOutlineFundProjectionScreen,
+  // AiOutlineFundProjectionScreen,
   AiOutlineUser,
-  AiFillBook,
-  AiFillContacts
+  // AiFillBook,
+  // AiFillContacts
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
